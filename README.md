@@ -1,5 +1,4 @@
 # hello-world
-Just another Repository
 
 Cat Ipsum credited to: http://www.catipsum.com/
 
